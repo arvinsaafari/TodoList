@@ -1,7 +1,3 @@
-Here's a simple README file for your project that you can use on GitHub:
-
-markdown
-
 # Task Management App
 
 This is a simple React-based Task Management App that allows users to add tasks, mark them as done or undone, and delete tasks from the list.
